@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currentlI am currently working as a data analyst and learning data science as well.y working as dI am currently working as a data analyst and learning data science as well.atd analyst and also learning data science 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammadzaeemjamil?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaeemjamil786@gmail.com) 
 
