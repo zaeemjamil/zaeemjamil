@@ -1,7 +1,7 @@
 
 # Hi there! I'm Zaeem Jamil<br> 
 
-Data Analyst<br><br>Welcome to my GitHub profile! I'm passionate about data analysis and data science.<br>Here's a brief overview of my skills and expertise:<br><br> 
+Data Analyst<br><br>Welcome to my GitHub profile! I'm passionate about data analysis and data science.<br>
 Currently working on Data Analysis projects<br><br>Looking to collaborate on Data Analysis and Data Science projects<br><br>
 
 
